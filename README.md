@@ -6,11 +6,13 @@ md-to-pdf file.md
 
 ## Table of Contents
 
-- [AWS IAM](iam.md)
-- [AWS EC2](ec2.md)
-- [AWS EC2 Associate](ec2_associate.md)
-- [EC2 Instance Storage](ec2_instance_storage.md)
-- [High Availability and Scalability](high_availability_and_scalability)
+- [Getting started with AWS](00_getting_started_with_aws.md)
+- [AWS IAM](01_iam.md)
+- [AWS EC2](02_ec2.md)
+- [AWS EC2 Associate](03_ec2_associate.md)
+- [EC2 Instance Storage](04_ec2_instance_storage.md)
+- [High Availability and Scalability](05_high_availability_and_scalability.md)
+- [RDS, Aurora and ElastiCache](06_rds_aurora_and_elasticache.md)
 
 ## Exam Description
 
