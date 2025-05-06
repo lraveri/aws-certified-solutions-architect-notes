@@ -14,6 +14,9 @@ md-to-pdf file.md
 - [High Availability and Scalability](05_high_availability_and_scalability.md)
 - [RDS, Aurora and ElastiCache](06_rds_aurora_and_elasticache.md)
 - [Route 53](07_route_53.md)
+- [Amazon S3](09_amazon_s3.md)
+- [Amazon S3 - Advanced](10_amazon_s3_advanced.md)
+- [Amazon S3 - Security](11_amazon_s3_security.md)
 
 ## Exam Description
 
